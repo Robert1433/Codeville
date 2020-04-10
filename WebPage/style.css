@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Centuric Gothic;
+}
+
+header{
+	background-image: url(/code.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+}
+
+ul li{
+	display: inline-block;
+}
